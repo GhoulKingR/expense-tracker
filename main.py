@@ -196,7 +196,7 @@ def main():
         elif res == "4":
             print("Resetting...")
             save_tabs([])
-            dashboard()
+            main()
             break
         elif res == "5":
             print("Closing...")
