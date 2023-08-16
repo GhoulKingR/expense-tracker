@@ -16,4 +16,6 @@
 
 [ ]The user should also be allowed to move to the previous page.
 
+Checking expenses will be another software sitting right beside this
+
 datetime.now().strftime("%d/%m/%Y %H:%M:%S")}
