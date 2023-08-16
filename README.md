@@ -19,3 +19,9 @@
 Checking expenses will be another software sitting right beside this
 
 datetime.now().strftime("%d/%m/%Y %H:%M:%S")}
+
+# Setup
+
+```bash
+chmod +x expense
+```
